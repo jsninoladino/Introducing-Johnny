@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsninoladino
+- 👋 Hi, I’m Johnny!
 - 👀 I’m interested in learning how to become a better programmer and pursuing Data Analytics/Science opportunities.
 - 🌱 I’m currently learning OOP, Flask, and Django. They seem to be very important when it comes to web app development.
 - 💞️ I’m looking to collaborate on any small project where I can learn and work as a team with understanding individuals.
